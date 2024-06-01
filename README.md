@@ -5,9 +5,13 @@
 
 <b>Buka Minigame Dahulu, Setelah itu, Tekan Tombol (`) Di Keyboard)</b>
 
+# Register
+- [BLUM](t.me/BlumCryptoBot/app?startapp=ref_Pf849mG2zI)
+
 ## Installation
 
-
+# Tutorial Video
+- [LINK](https://youtu.be/02ov_3dU8ZY)
 ```bash
 git clone https://github.com/Punten10/Blum-Minigame.git
 cd Blum-Minigame
