@@ -5,4 +5,17 @@
 
 <b>Buka Minigame Dahulu, Setelah itu, Tekan Tombol (`) Di Keyboard)</b>
 
-![video](https://github.com/ndkwa/blum-autocliker/blob/main/src/gif.gif)
+## Installation
+
+
+```bash
+git clone https://github.com/Punten10/Blum-Minigame.git
+cd Blum-Minigame
+pip install -r requirements.txt
+```
+
+## Usage
+
+```bash
+python main.py
+```
