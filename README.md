@@ -1,5 +1,5 @@
 # Blum minigame Autocliker
-## Autocliker Untuk Minimage Blum
+## Autocliker Untuk Minigame Blum
 
 ### Script secara otomatis klik clover hijau, dan skip bom dan salju
 
